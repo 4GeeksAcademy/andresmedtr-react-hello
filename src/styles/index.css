@@ -1,4 +1,19 @@
 
+
+.digit {
+    font-size: 150px;
+    
+}
+.clock {
+    font-size: 110px;
+    
+}
+.clock, .digit {
+    margin: 1rem;
+    border-radius: 15px;
+    width: 10%;
+
+}
 /* 
 
     You can write your own styles here...
